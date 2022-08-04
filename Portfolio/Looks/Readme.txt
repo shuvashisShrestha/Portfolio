@@ -1,0 +1,1 @@
+The website is not responsive so, might look weird in some screens.
